@@ -278,4 +278,5 @@ async def ihtx(
         try: os.remove(p)
         except: pass
 
-bot.run(TOKEN)
+bot.run('MTQ1NjU4NDYxNjUzMzI5OTM0Mw.GkLrAi.MZH_rqkAZs6DMS0WbfEZub32AghMvPIADsar_w')
+
